@@ -14,7 +14,6 @@ export default function Hero() {
       <div className="absolute inset-0 bg-ink/50" />
 
       <div className="relative h-full container-page flex flex-col items-center justify-center text-center text-white gap-6">
-        <span className="eyebrow text-gold">Port Harcourt Catering & Confectionery</span>
         <h1 className="text-4xl sm:text-6xl leading-tight max-w-2xl">
           Book Catering for Your Next Occasion
         </h1>
