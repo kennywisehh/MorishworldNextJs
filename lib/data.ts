@@ -44,7 +44,7 @@ export const services = [
   {
     id: "traditional",
     title: "Traditional Catering",
-    price: "From ₦50,000",
+    price: "",
     description:
       "Authentic soups — Afang, Egusi, Oha, Banga — served with premium proteins and your choice of sides.",
     includes: ["Choice of 2–4 soups", "Premium protein options", "Swallow & rice sides", "Serving staff"],
@@ -52,7 +52,7 @@ export const services = [
   {
     id: "buffet",
     title: "Buffet & Banquet",
-    price: "Custom pricing",
+    price: "",
     description:
       "Full chafing-dish buffet setup with a curated spread of continental and local dishes.",
     includes: ["Full chafing dish setup", "Continental & local dishes", "Table linen & warmers", "Dedicated service team"],
@@ -60,7 +60,7 @@ export const services = [
   {
     id: "wedding",
     title: "Wedding Catering",
-    price: "Custom pricing",
+    price: "",
     description:
       "Complete wedding catering from tasting session to day-of execution, with a dedicated coordinator.",
     includes: ["Pre-event tasting", "Full menu customization", "Uniformed service staff", "Event coordination support"],
@@ -68,7 +68,7 @@ export const services = [
   {
     id: "corporate",
     title: "Corporate Events",
-    price: "Custom pricing",
+    price: "",
     description:
       "Boardroom lunches to company galas, handled with the professionalism your brand needs.",
     includes: ["Branded serving stations", "Dietary accommodation", "On-time delivery", "Invoice provided"],
@@ -76,7 +76,7 @@ export const services = [
   {
     id: "cakes",
     title: "Custom Cakes & Pastries",
-    price: "From ₦25,000",
+    price: "",
     description:
       "Bespoke celebration cakes and artisan pastries, made fresh and finished by hand.",
     includes: ["Design consultation", "Custom flavors & fillings", "Fondant or buttercream finish", "Delivery to venue"],
@@ -84,7 +84,7 @@ export const services = [
   {
     id: "desserts",
     title: "Dessert Bars",
-    price: "From ₦35,000",
+    price: "",
     description:
       "Styled dessert stations featuring mini cakes, macarons, truffles, and more.",
     includes: ["Styled display setup", "5–8 dessert varieties", "Branded labelling", "Dessert bags for guests"],
